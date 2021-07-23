@@ -98,7 +98,7 @@ void proceess_commads(char* command) {
 	scan();
 }
 
-
+seegitchange
 
 void dll_loop(LPSTR communication_buffer)
 {
